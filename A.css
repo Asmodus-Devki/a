@@ -1,0 +1,17 @@
+body{
+
+    background-color:Red;
+
+    border-style: dotted;
+ }
+
+
+p{
+
+    border-style: groove;
+  
+     color:blue;
+
+     font-size:40px;
+
+}
